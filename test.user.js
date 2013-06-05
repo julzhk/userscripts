@@ -24,7 +24,3 @@ function main() {
 
 // load jQuery and execute the main function
 addJQuery(main);
-
-
-alert('hi world');
-$( "#dialog-form" ).dialog( "open" );
